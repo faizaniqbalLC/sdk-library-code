@@ -9,9 +9,6 @@
   "scripts": {
     "build": "del -rf dist && microbundle --tsconfig tsconfig.json --no-sourcemap"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "files": [
     "dist"
   ],
@@ -20,5 +17,11 @@
   },
   "dependencies": {
     "isomorphic-unfetch": "^4.0.2"
-  }
+  },
+  "keywords": [
+    "console log colors",
+    "success  error info"
+  ],
+  "author": "Muhammad Fizan Iqbal <se.fizaniqbal@gmail.com",
+  "license": "MIT"
 }
