@@ -1,27 +1,34 @@
 {
   "name": "sdknow1",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "For Getting data from jsonplaceHolder by methods (getPosts , getPostById , createPost)",
   "main": "dist/index.js",
   "module": "dist/index.m.js",
   "unpkg": "dist/index.umd.js",
   "types": "dist/index.d.ts",
+  "type": "module",
   "scripts": {
     "build": "del -rf dist && microbundle --tsconfig tsconfig.json --no-sourcemap"
   },
   "files": [
     "dist"
   ],
-  "devDependencies": {
-    "microbundle": "^0.15.1"
-  },
-  "dependencies": {
-    "isomorphic-unfetch": "^4.0.2"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faizaniqbalLC/sdk-library-code.git"
   },
   "keywords": [
-    "console log colors",
-    "success  error info"
+    "jsonplaceholder fetch api data",
+    "ts"
   ],
   "author": "Muhammad Fizan Iqbal <se.fizaniqbal@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faizaniqbalLC/sdk-library-code/issues"
+  },
+  "homepage": "https://github.com/faizaniqbalLC/sdk-library-code.git#readme",
+  "dependencies": {
+    "isomorphic-unfetch": "^4.0.2",
+    "microbundle": "^0.15.1"
+  }
 }

@@ -1,14 +1,6 @@
-<div align="center">
-  <br/>
-  <a href="https://muhammad-fizan-iqbal-portfolio.netlify.app" title="This is my lib.">
-    <img width=700px height=200px src="https://i.ibb.co/kSPqvp6/myLogo.png" alt="pm2 logo">
-  </a>
-  <br/>
-<br/>
-<b>S</b>(oftware) <b>D</b>(evelopment) <b>Kit</b><br/>
-  <i>Runtime Edition</i>
-<br/><br/>
-### Installing sdknow1
+[![sdknow1](https://i.ibb.co/kSPqvp6/myLogo.png)](#sdknow1) 
+
+**Installing sdknow1**
 
 With NPM:
 
@@ -22,7 +14,7 @@ Sdk-now1 is a software-development-kit for getting a single post by id,getAllPos
 
 ### Use case ( How you can use this package )
 
-```js
+```jsx
 import Typicode from "sdknow1";
 const client = new Typicode({
   apiKey: "123",
