@@ -51,7 +51,7 @@ You can install this package by npm intall sdknow
 <div align="center">
   <br/>
   <a href="https://muhammad-fizan-iqbal-portfolio.netlify.app" title="This is my lib.">
-    <img width=710px src="https://i.ibb.co/kSPqvp6/myLogo.png" alt="pm2 logo">
+    <img width=300px height=200px src="https://i.ibb.co/kSPqvp6/myLogo.png" alt="pm2 logo">
   </a>
   <br/>
 <br/>
