@@ -2,7 +2,7 @@
 
 ## [Documentation_Pending](pending)
 
-**Installing sdknow1 **
+**Installing sdknow1**
 
 With NPM:
 
