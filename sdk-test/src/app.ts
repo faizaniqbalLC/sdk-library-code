@@ -7,5 +7,5 @@ const client = new Typicode({
 //   console.log(res);
 // });
 client.getPostById(1).then((res) => {
-  console.log(res );
+  console.log(res);
 });
